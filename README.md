@@ -11,6 +11,7 @@ Czech is coming soon!
 - Add Czech
 - More data
 - Less AI "yapping"
+- Switch to llama3 (if you ask current model "What is SSPS", it says space program. And llama3 > llama3.1 (in this case))
 
 
 ## Related
