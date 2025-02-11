@@ -28,5 +28,5 @@ If Ollama is installed (if not, install it from "Related")
 ```
 Or get it from Ollamas models
 ``` bash
-    https://ollama.com/LatitudeMan/SSPS_AI
+  https://ollama.com/LatitudeMan/SSPS_AI
 ```
