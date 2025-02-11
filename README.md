@@ -19,3 +19,9 @@ Here are some related projects
 
 [Ollama](https://github.com/ollama/ollama)
 
+
+## How to run
+If Ollama is installed (if not, install it from "Related")
+```bash
+  ollama create SSPS_AI -f "path/to/.txt/you/downloaded/from/releases/"
+```
