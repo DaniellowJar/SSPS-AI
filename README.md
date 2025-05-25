@@ -1,6 +1,6 @@
 
 # SSPŠ AI
-An AI-powered chatbot built with Ollama and Llama 3.1 to help users quickly find information on the SSPŠ Website.
+An AI-powered chatbot built with AnythingLLM and Llama 3.1 to help users quickly find information on the SSPŠ Website.
 
 Czech is coming soon!
 
